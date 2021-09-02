@@ -35,7 +35,7 @@ const LIST_ITEMS = [
     link: "https://9anime.to/"
   },
   {
-    name: "PCN",
-    link: "https://www.parisclassenumerique.fr/"
+    name: "Mon Lycée",
+    link: "https://www.monlycee.net/"
   },
 ]
