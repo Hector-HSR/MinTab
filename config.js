@@ -35,7 +35,7 @@ const LIST_ITEMS = [
     link: "https://9anime.to/"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "PCN",
+    link: "https://www.parisclassenumerique.fr/"
   },
 ]
