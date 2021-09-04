@@ -16,8 +16,8 @@ const ICONS = [
     link: "https://www.reddit.com/"
   },
   {
-    icon: "ri-github-fill",
-    link: "https://www.github.com/"
+    icon: "ri-article-fill",
+    link: "https://ankiweb.net/decks/"
   }
 ]
 
